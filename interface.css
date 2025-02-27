@@ -1,4 +1,30 @@
-main{
-    background-color: black;
+body{
+    background-color:black;
 
+}
+.card{
+    background-color:aquamarine;
+    width:15dvw;
+    height: 60dvh;
+    display:flex;
+    flex-direction:column:
+    align-items:center;
+    
+
+
+}
+.main{
+    align-items:center;
+    justify-content:center;
+}
+.image img{
+    width:240px;
+    height: 277px;
+    border-bottom-right-radius: 0cqmax;
+}
+.plan{
+    width:200dvw;
+    height:100dvh;
+    display:flex;
+    flex-direction:column;
 }
